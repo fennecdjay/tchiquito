@@ -1,4 +1,3 @@
-baseURL = 'https://example.org/'
 title = 'Simon "Tchiquito" Lambert'
 theme = 'hugo-resume'
 languageCode = "fr"
