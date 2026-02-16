@@ -5,4 +5,4 @@ run:
 	git add public
 	git commit -m "update"
 	git push
-	git branch master
+	git checkout master
