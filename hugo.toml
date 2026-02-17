@@ -2,8 +2,8 @@ title = 'Simon "Tchiquito" Lambert'
 theme = 'hugo-resume'
 languageCode = "fr"
 favicon = "favicon.ico"
-#baseURL = 'https://fennecdjay.github.io/tchiquito'
-baseURL = 'localhost:1313'
+baseURL = 'https://fennecdjay.github.io/tchiquito'
+#baseURL = 'localhost:1313'
 ignoreLogs = ['warning-goldmark-raw-html']
 
 [params]
