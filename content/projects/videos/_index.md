@@ -1,7 +1,7 @@
 ---
 title: Vidéos
-link: NA
-description: NA
+#link: publications 
+description: vidéos de tchiquito en concert
 weight: 10
 sitemap:
   priority: 0.6
