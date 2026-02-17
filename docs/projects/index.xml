@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projets on Simon &#34;Tchiquito&#34; Lambert</title>
-    <link>/projects/</link>
+    <link>https://fennecdjay.github.io/tchiquito/projects/</link>
     <description>Recent content in Projets on Simon &#34;Tchiquito&#34; Lambert</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://fennecdjay.github.io/tchiquito/projects/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,8 +2,7 @@ title = 'Simon "Tchiquito" Lambert'
 theme = 'hugo-resume'
 languageCode = "fr"
 favicon = "favicon.ico"
-#baseURL = 'https://fennecdjay.github.io/tchiquito'
-#theme = 'ananke'
+baseURL = 'https://fennecdjay.github.io/tchiquito'
 
 [params]
 firstName = "Simon"
