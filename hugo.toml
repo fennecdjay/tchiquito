@@ -2,7 +2,7 @@ title = 'Simon "Tchiquito" Lambert'
 theme = 'hugo-resume'
 languageCode = "fr"
 favicon = "favicon.ico"
-baseURL = 'https://fennecdjay.github.io/tchiquito'
+#baseURL = 'https://fennecdjay.github.io/tchiquito'
 #theme = 'ananke'
 
 [params]
@@ -14,6 +14,10 @@ showContatc = true
 #profileImage = "img/portrait.jpg"
 profileImage = "img/chiquito-bio.jpg"
 #[[params.handles]]
-#sections = ["projets"]
+sections = ["creations", "publications", "videos", "experience"]
+#sections = ["videos"]
+# sections = ["publications", "creations"]
+#sections = ["videos"]
+#sections = ["projects"]
 #sections = ["projets","expérience"]
 #sections = ["creations","contributions"]
